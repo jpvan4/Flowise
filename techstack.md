@@ -569,71 +569,71 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[crypto-js](https://www.npmjs.com/crypto-js)|v4.1.1|07/15/23|Henry |MIT|[CVE-2023-46233](https://github.com/advisories/GHSA-xwcq-pm8m-c4vf) (Critical)|
-|[mysql2](https://www.npmjs.com/mysql2)|v3.5.1|07/21/23|Henry |MIT|[CVE-2024-21508](https://github.com/advisories/GHSA-fpw7-j2hg-69v5) (Critical)<br/>[CVE-2024-21507](https://github.com/advisories/GHSA-mqr2-w7wj-jjgr) (Moderate)<br/>[CVE-2024-21509](https://github.com/advisories/GHSA-49j4-86m8-q2jw) (Moderate)|
-|[moment](https://www.npmjs.com/moment)|v2.29.3|11/24/23|Henry |MIT|[CVE-2022-31129](https://github.com/advisories/GHSA-wc69-rhjr-hc9g) (High)|
-|[express](https://www.npmjs.com/express)|v4.17.3|04/06/23|Henry |MIT|[CVE-2024-29041](https://github.com/advisories/GHSA-rv95-896h-c2vc) (Moderate)|
-|[moment-timezone](https://www.npmjs.com/moment-timezone)|v0.5.34|04/06/23|Henry |MIT|[](https://github.com/advisories/GHSA-v78c-4p63-2j6c) (Moderate)<br/>[](https://github.com/advisories/GHSA-56x4-j7p9-fcf9) (Low)|
-|[@babel/preset-env](https://www.npmjs.com/@babel/preset-env)|v7.19.4|04/06/23|Henry |MIT|N/A|
-|[@babel/preset-typescript](https://www.npmjs.com/@babel/preset-typescript)|v7.18.6|09/04/23|chungyau97 |MIT|N/A|
-|[@emotion/styled](https://www.npmjs.com/@emotion/styled)|v11.10.6|04/06/23|Henry |MIT|N/A|
-|[@testing-library/jest-dom](https://www.npmjs.com/@testing-library/jest-dom)|v5.11.10|06/26/23|Henry |MIT|N/A|
-|[@testing-library/react](https://www.npmjs.com/@testing-library/react)|v14.0.0|11/03/23|Henry |MIT|N/A|
-|[@types/cors](https://www.npmjs.com/@types/cors)|v2.8.12|07/15/23|Henry |MIT|N/A|
-|[@types/crypto-js](https://www.npmjs.com/@types/crypto-js)|v4.1.1|07/15/23|Henry |MIT|N/A|
-|[@types/express](https://www.npmjs.com/@types/express)|v4.17.13|09/04/23|chungyau97 |MIT|N/A|
-|[@types/gulp](https://www.npmjs.com/@types/gulp)|v4.0.9|10/11/23|Henry |MIT|N/A|
-|[@types/js-yaml](https://www.npmjs.com/@types/js-yaml)|v4.0.5|10/11/23|Henry |MIT|N/A|
-|[@types/jsdom](https://www.npmjs.com/@types/jsdom)|v21.1.1|10/11/23|Henry |MIT|N/A|
-|[@types/node-fetch](https://www.npmjs.com/@types/node-fetch)|v2.6.2|10/11/23|Henry |MIT|N/A|
-|[@types/pg](https://www.npmjs.com/@types/pg)|v8.10.2|10/11/23|Henry |MIT|N/A|
-|[@types/ws](https://www.npmjs.com/@types/ws)|v8.5.3|10/11/23|Henry |MIT|N/A|
-|[cheerio](https://www.npmjs.com/cheerio)|v1.0.0|04/17/23|chungyau97 |MIT|N/A|
-|[concurrently](https://www.npmjs.com/concurrently)|v7.1.0|04/06/23|Henry |MIT|N/A|
-|[cors](https://www.npmjs.com/cors)|v2.8.5|04/06/23|Henry |MIT|N/A|
-|[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.3.0|04/06/23|Henry |MIT|N/A|
-|[eslint-config-react-app](https://www.npmjs.com/eslint-config-react-app)|v7.0.1|04/06/23|Henry |MIT|N/A|
-|[eslint-plugin-jsx-a11y](https://www.npmjs.com/eslint-plugin-jsx-a11y)|v6.6.1|04/06/23|Henry |MIT|N/A|
-|[eslint-plugin-markdown](https://www.npmjs.com/eslint-plugin-markdown)|v3.0.0|04/06/23|Henry |MIT|N/A|
-|[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v3.4.0|04/06/23|Henry |MIT|N/A|
-|[eslint-plugin-react](https://www.npmjs.com/eslint-plugin-react)|v7.26.1|04/06/23|Henry |MIT|N/A|
-|[eslint-plugin-react-hooks](https://www.npmjs.com/eslint-plugin-react-hooks)|v4.6.0|04/06/23|Henry |MIT|N/A|
-|[form-data](https://www.npmjs.com/form-data)|v4.0.0|10/12/23|Henry |MIT|N/A|
-|[google-auth-library](https://www.npmjs.com/google-auth-library)|v9.0.0|09/05/23|Martin Andrews |Apache-2.0|N/A|
-|[history](https://www.npmjs.com/history)|v5.0.0|04/06/23|Henry |MIT|N/A|
-|[html-to-text](https://www.npmjs.com/html-to-text)|v9.0.5|11/09/23|Henry |MIT|N/A|
-|[husky](https://www.npmjs.com/husky)|v8.0.1|09/04/23|chungyau97 |MIT|N/A|
-|[ioredis](https://www.npmjs.com/ioredis)|v5.3.2|10/06/23|vinodkiran |MIT|N/A|
-|[langchain](https://www.npmjs.com/langchain)|v0.0.196|12/07/23|Henry |N/A|N/A|
-|[lint-staged](https://www.npmjs.com/lint-staged)|v13.0.3|04/06/23|Henry |MIT|N/A|
-|[multer](https://www.npmjs.com/multer)|v1.4.5|05/04/23|Henry |MIT|N/A|
-|[node-fetch](https://www.npmjs.com/node-fetch)|v2.6.11|08/17/23|Henry |MIT|N/A|
-|[object-hash](https://www.npmjs.com/object-hash)|v3.0.0|11/21/23|Ofer Mendelevitch |MIT|N/A|
-|[openai](https://www.npmjs.com/openai)|v4.16.1|11/07/23|Henry |N/A|N/A|
-|[pdfjs-dist](https://www.npmjs.com/pdfjs-dist)|v3.7.107|06/14/23|Henry |Apache-2.0|N/A|
-|[pg](https://www.npmjs.com/pg)|v8.11.2|04/06/23|Henry |MIT|N/A|
-|[pretty-quick](https://www.npmjs.com/pretty-quick)|v3.1.3|04/06/23|Henry |MIT|N/A|
-|[prismjs](https://www.npmjs.com/prismjs)|v1.28.0|04/06/23|Henry |MIT|N/A|
-|[prop-types](https://www.npmjs.com/prop-types)|v15.7.2|08/03/23|Henry |MIT|N/A|
-|[react-color](https://www.npmjs.com/react-color)|v2.19.3|11/03/23|Henry |MIT|N/A|
-|[react-datepicker](https://www.npmjs.com/react-datepicker)|v4.21.0|11/03/23|Henry |MIT|N/A|
-|[react-dom](https://www.npmjs.com/react-dom)|v18.2.0|11/03/23|Henry |MIT|N/A|
-|[react-markdown](https://www.npmjs.com/react-markdown)|v8.0.6|11/03/23|Henry |MIT|N/A|
-|[react-redux](https://www.npmjs.com/react-redux)|v8.0.5|11/03/23|Henry |MIT|N/A|
-|[react-router](https://www.npmjs.com/react-router)|v6.3.0|11/03/23|Henry |MIT|N/A|
-|[react-router-dom](https://www.npmjs.com/react-router-dom)|v6.3.0|11/03/23|Henry |MIT|N/A|
-|[react-scripts](https://www.npmjs.com/react-scripts)|v5.0.1|11/03/23|Henry |MIT|N/A|
-|[react-syntax-highlighter](https://www.npmjs.com/react-syntax-highlighter)|v15.5.0|11/03/23|Henry |MIT|N/A|
-|[reflect-metadata](https://www.npmjs.com/reflect-metadata)|v0.1.13|04/06/23|Henry |Apache-2.0|N/A|
-|[remark-gfm](https://www.npmjs.com/remark-gfm)|v3.0.1|05/22/23|Henry |N/A|N/A|
-|[rimraf](https://www.npmjs.com/rimraf)|v3.0.2|04/06/23|Henry |ISC|N/A|
-|[shx](https://www.npmjs.com/shx)|v0.3.3|04/06/23|Henry |MIT|N/A|
-|[socket.io-client](https://www.npmjs.com/socket.io-client)|v4.6.1|05/22/23|Henry |MIT|N/A|
-|[sqlite3](https://www.npmjs.com/sqlite3)|v5.1.6|04/06/23|Henry |BSD-3-Clause|N/A|
-|[ts-node](https://www.npmjs.com/ts-node)|v10.7.0|04/06/23|Henry |MIT|N/A|
-|[uuid](https://www.npmjs.com/uuid)|v9.0.1|09/19/23|chungyau97 |MIT|N/A|
-|[winston](https://www.npmjs.com/winston)|v3.9.0|07/03/23|Matthias Platzer |MIT|N/A|
-|[yup](https://www.npmjs.com/yup)|v0.32.9|04/06/23|Henry |MIT|N/A|
+|[crypto-js](https://www.npmjs.com/crypto-js)|v4.1.1|N/A|N/A |MIT|[CVE-2023-46233](https://github.com/advisories/GHSA-xwcq-pm8m-c4vf) (Critical)|
+|[mysql2](https://www.npmjs.com/mysql2)|v3.5.1|N/A|N/A |MIT|[CVE-2024-21508](https://github.com/advisories/GHSA-fpw7-j2hg-69v5) (Critical)<br/>[CVE-2024-21507](https://github.com/advisories/GHSA-mqr2-w7wj-jjgr) (Moderate)<br/>[CVE-2024-21509](https://github.com/advisories/GHSA-49j4-86m8-q2jw) (Moderate)|
+|[moment](https://www.npmjs.com/moment)|v2.29.3|N/A|N/A |MIT|[CVE-2022-31129](https://github.com/advisories/GHSA-wc69-rhjr-hc9g) (High)|
+|[express](https://www.npmjs.com/express)|v4.17.3|N/A|N/A |MIT|[CVE-2024-29041](https://github.com/advisories/GHSA-rv95-896h-c2vc) (Moderate)|
+|[moment-timezone](https://www.npmjs.com/moment-timezone)|v0.5.34|N/A|N/A |MIT|[](https://github.com/advisories/GHSA-v78c-4p63-2j6c) (Moderate)<br/>[](https://github.com/advisories/GHSA-56x4-j7p9-fcf9) (Low)|
+|[@babel/preset-env](https://www.npmjs.com/@babel/preset-env)|v7.19.4|N/A|N/A |MIT|N/A|
+|[@babel/preset-typescript](https://www.npmjs.com/@babel/preset-typescript)|v7.18.6|N/A|N/A |MIT|N/A|
+|[@emotion/styled](https://www.npmjs.com/@emotion/styled)|v11.10.6|N/A|N/A |MIT|N/A|
+|[@testing-library/jest-dom](https://www.npmjs.com/@testing-library/jest-dom)|v5.11.10|N/A|N/A |MIT|N/A|
+|[@testing-library/react](https://www.npmjs.com/@testing-library/react)|v14.0.0|N/A|N/A |MIT|N/A|
+|[@types/cors](https://www.npmjs.com/@types/cors)|v2.8.12|N/A|N/A |MIT|N/A|
+|[@types/crypto-js](https://www.npmjs.com/@types/crypto-js)|v4.1.1|N/A|N/A |MIT|N/A|
+|[@types/express](https://www.npmjs.com/@types/express)|v4.17.13|N/A|N/A |MIT|N/A|
+|[@types/gulp](https://www.npmjs.com/@types/gulp)|v4.0.9|N/A|N/A |MIT|N/A|
+|[@types/js-yaml](https://www.npmjs.com/@types/js-yaml)|v4.0.5|N/A|N/A |MIT|N/A|
+|[@types/jsdom](https://www.npmjs.com/@types/jsdom)|v21.1.1|N/A|N/A |MIT|N/A|
+|[@types/node-fetch](https://www.npmjs.com/@types/node-fetch)|v2.6.2|N/A|N/A |MIT|N/A|
+|[@types/pg](https://www.npmjs.com/@types/pg)|v8.10.2|N/A|N/A |MIT|N/A|
+|[@types/ws](https://www.npmjs.com/@types/ws)|v8.5.3|N/A|N/A |MIT|N/A|
+|[cheerio](https://www.npmjs.com/cheerio)|v1.0.0|N/A|N/A |MIT|N/A|
+|[concurrently](https://www.npmjs.com/concurrently)|v7.1.0|N/A|N/A |MIT|N/A|
+|[cors](https://www.npmjs.com/cors)|v2.8.5|N/A|N/A |MIT|N/A|
+|[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.3.0|N/A|N/A |MIT|N/A|
+|[eslint-config-react-app](https://www.npmjs.com/eslint-config-react-app)|v7.0.1|N/A|N/A |MIT|N/A|
+|[eslint-plugin-jsx-a11y](https://www.npmjs.com/eslint-plugin-jsx-a11y)|v6.6.1|N/A|N/A |MIT|N/A|
+|[eslint-plugin-markdown](https://www.npmjs.com/eslint-plugin-markdown)|v3.0.0|N/A|N/A |MIT|N/A|
+|[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v3.4.0|N/A|N/A |MIT|N/A|
+|[eslint-plugin-react](https://www.npmjs.com/eslint-plugin-react)|v7.26.1|N/A|N/A |MIT|N/A|
+|[eslint-plugin-react-hooks](https://www.npmjs.com/eslint-plugin-react-hooks)|v4.6.0|N/A|N/A |MIT|N/A|
+|[form-data](https://www.npmjs.com/form-data)|v4.0.0|N/A|N/A |MIT|N/A|
+|[google-auth-library](https://www.npmjs.com/google-auth-library)|v9.0.0|N/A|N/A |Apache-2.0|N/A|
+|[history](https://www.npmjs.com/history)|v5.0.0|N/A|N/A |MIT|N/A|
+|[html-to-text](https://www.npmjs.com/html-to-text)|v9.0.5|N/A|N/A |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.1|N/A|N/A |MIT|N/A|
+|[ioredis](https://www.npmjs.com/ioredis)|v5.3.2|N/A|N/A |MIT|N/A|
+|[langchain](https://www.npmjs.com/langchain)|v0.0.196|N/A|N/A |N/A|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v13.0.3|N/A|N/A |MIT|N/A|
+|[multer](https://www.npmjs.com/multer)|v1.4.5|N/A|N/A |MIT|N/A|
+|[node-fetch](https://www.npmjs.com/node-fetch)|v2.6.11|N/A|N/A |MIT|N/A|
+|[object-hash](https://www.npmjs.com/object-hash)|v3.0.0|N/A|N/A |MIT|N/A|
+|[openai](https://www.npmjs.com/openai)|v4.16.1|N/A|N/A |N/A|N/A|
+|[pdfjs-dist](https://www.npmjs.com/pdfjs-dist)|v3.7.107|N/A|N/A |Apache-2.0|N/A|
+|[pg](https://www.npmjs.com/pg)|v8.11.2|N/A|N/A |MIT|N/A|
+|[pretty-quick](https://www.npmjs.com/pretty-quick)|v3.1.3|N/A|N/A |MIT|N/A|
+|[prismjs](https://www.npmjs.com/prismjs)|v1.28.0|N/A|N/A |MIT|N/A|
+|[prop-types](https://www.npmjs.com/prop-types)|v15.7.2|N/A|N/A |MIT|N/A|
+|[react-color](https://www.npmjs.com/react-color)|v2.19.3|N/A|N/A |MIT|N/A|
+|[react-datepicker](https://www.npmjs.com/react-datepicker)|v4.21.0|N/A|N/A |MIT|N/A|
+|[react-dom](https://www.npmjs.com/react-dom)|v18.2.0|N/A|N/A |MIT|N/A|
+|[react-markdown](https://www.npmjs.com/react-markdown)|v8.0.6|N/A|N/A |MIT|N/A|
+|[react-redux](https://www.npmjs.com/react-redux)|v8.0.5|N/A|N/A |MIT|N/A|
+|[react-router](https://www.npmjs.com/react-router)|v6.3.0|N/A|N/A |MIT|N/A|
+|[react-router-dom](https://www.npmjs.com/react-router-dom)|v6.3.0|N/A|N/A |MIT|N/A|
+|[react-scripts](https://www.npmjs.com/react-scripts)|v5.0.1|N/A|N/A |MIT|N/A|
+|[react-syntax-highlighter](https://www.npmjs.com/react-syntax-highlighter)|v15.5.0|N/A|N/A |MIT|N/A|
+|[reflect-metadata](https://www.npmjs.com/reflect-metadata)|v0.1.13|N/A|N/A |Apache-2.0|N/A|
+|[remark-gfm](https://www.npmjs.com/remark-gfm)|v3.0.1|N/A|N/A |N/A|N/A|
+|[rimraf](https://www.npmjs.com/rimraf)|v3.0.2|N/A|N/A |ISC|N/A|
+|[shx](https://www.npmjs.com/shx)|v0.3.3|N/A|N/A |MIT|N/A|
+|[socket.io-client](https://www.npmjs.com/socket.io-client)|v4.6.1|N/A|N/A |MIT|N/A|
+|[sqlite3](https://www.npmjs.com/sqlite3)|v5.1.6|N/A|N/A |BSD-3-Clause|N/A|
+|[ts-node](https://www.npmjs.com/ts-node)|v10.7.0|N/A|N/A |MIT|N/A|
+|[uuid](https://www.npmjs.com/uuid)|v9.0.1|N/A|N/A |MIT|N/A|
+|[winston](https://www.npmjs.com/winston)|v3.9.0|N/A|N/A |MIT|N/A|
+|[yup](https://www.npmjs.com/yup)|v0.32.9|N/A|N/A |MIT|N/A|
 
 <br/>
 <div align='center'>
